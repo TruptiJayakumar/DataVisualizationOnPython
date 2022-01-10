@@ -1,7 +1,7 @@
 # DataVisualizationOnPython
 ## Importing train data from Kaggle as a csv to conduct analysis
-### Visulaizing each class of passengers based on gender and age
-### Creating an additional coliumn for person ( male, female and child) and also Cabin information
+### Visualizing each class of passengers based on gender and age
+### Creating an additional column for person ( male, female and child) and also Cabin information
 ### Finding out answers to interesting questions as follows:
 *Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)*
 *What deck were the passengers on and how does that relate to their class?*
